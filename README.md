@@ -6,7 +6,7 @@
 
 ## Description
 
-GameFinder is a web application that allows users to discover and explore a wide range of games based on genres. With advanced filtering options and sorting capabilities, users can easily find games based on relevance, popularity, and more. The project was built with React and Chakra UI, providing a modern and responsive user interface.
+GameHub is a web application that allows users to discover and explore a wide range of games based on genres. With advanced filtering options and sorting capabilities, users can easily find games based on relevance, popularity, and more. The project was built with React and Chakra UI, providing a modern and responsive user interface.
 
 This project was created as a learning exercise from the React course on CodeWithMosh.com.
 
